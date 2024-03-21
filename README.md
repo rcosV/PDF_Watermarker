@@ -17,16 +17,17 @@ Install the PyPDF2 library using pip:
 
 ```bash
 pip install PyPDF2
+```
 
-Usage
+### Usage
 After installation, run the script from the command line by passing the name of the PDF you want to watermark:
 
 python watermark.py your-pdf-file.pdf
 
 Replace your-pdf-file.pdf with the actual file name of the PDF you wish to watermark.
 
-Customization
+### Customization
 You can customize the watermark by replacing the "wtr.pdf" file with your own watermark file in the script.
 
-Contributions
+### Contributions
 Contributions are welcome. Please ensure you follow the code of conduct and contribution guidelines.
